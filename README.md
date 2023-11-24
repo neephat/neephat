@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/5bbc91d8bdb210e75aa75ec06079c82e9ba05c78707a9e36d3671fe014ba01e1/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f7765622e676966)]
+![MasterHead](https://camo.githubusercontent.com/5bbc91d8bdb210e75aa75ec06079c82e9ba05c78707a9e36d3671fe014ba01e1/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f7765622e676966)
 <h1 align="center">Hi 👋, I'm Neephat Benazir</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
