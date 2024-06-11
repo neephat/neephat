@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neephat&label=Profile%20views&color=0e75b6&style=flat" alt="neephat" /> </p>
 
-- 🌱 I’m currently learning **React-Native**
+- 🌱 I’m currently learning **NextJs**
 
 - 💬 Ask me about **reactJs, nodeJs and expressJs**
 
